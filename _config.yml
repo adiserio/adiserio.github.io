@@ -1,11 +1,15 @@
 title: Angela Di Serio 
 logo: "images/Angela©k.c.61a Small.jpg" 
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Computer Engineer looking for new opportunities on Data Science
   <br><br>
-  Second description 
+  Experienced Professor with a demonstrated history of working in the higher education. 
+  Skilled in Programming Languages including C, Python, R, Java, Matlab; 
+  Parallel Programming using MPI; Mobile Learning; Augmented Reality and Databases. 
+  Strong education professional with a Master's degree focused in Computer Science 
+  and several relevant courses on Data Scientist and Big Data 
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/adiserio/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
