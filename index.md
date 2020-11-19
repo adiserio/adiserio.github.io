@@ -5,6 +5,8 @@ Presented in the form of iPython Notebooks, and R markdown files.
 
 |**Projects**                                         |  []()            |     []()    |  
 |:----------------------------------------------------|:----------------:|:-----------:|
+|**Covid-19**                                         |  []()            | []()        |
+|Data Visualization of Covid-19 using Tableau         |[Tableau](https://public.tableau.com/profile/angela.di.serio#!/vizhome/NovelCoronavirusSituationCOVID-19/COVID19)| []()|
 |**Google Location History (GLH)**                    |  []()            |  []()       |
 |Analysing the Google Location History downloaded from my google account. The data provided is a .json file that can be loaded in R using the jsonlite package.| [GitHub Repo](https://github.com/adiserio/Google-Location-History) | [html](https://adiserio.github.io/Google-Location-History/AnalisisUbicacion.html)|
 |**Reproducible Investigation using RMarkdown (Spanish)**| []()          | []()        |
