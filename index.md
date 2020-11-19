@@ -7,7 +7,8 @@ Presented in the form of iPython Notebooks, and R markdown files.
 
 |    Project                              |        Link     |
 |:----------------------------------|:-----------:|
-|**Google Location History (GLH)** |[GitHub Repo](https://github.com/adiserio/Google-Location-History) |   
-|  Analysing the Google Location History downloaded from my google account. The data provided is a .json file that can be loaded in R using the jsonlite package.| | 
+|**Google Location History (GLH)**  |             |
+|Analysing the Google Location History downloaded from my google account. The data provided is a .json file that can be loaded in R using the jsonlite package.|  |[GitHub Repo](https://github.com/adiserio/Google-Location-History) |   
+|
 
 - Reproducible Investigation using RMarkdown (Spanish)
