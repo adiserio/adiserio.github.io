@@ -15,6 +15,10 @@ Presented in the form of iPython Notebooks, and R markdown files.
 |                                                     |                  |             |
 |**Smart Keyboard**                                   | []()             | []()        |
 |The idea of this project is to build a smart keyboard that predicts the next word that might be typed by the user. In this report, first we provide major features about the dataset that will be used to build the prediction model. We analyze a large corpus of text documents to discover the structure in the data and how words are put together. Finally, we provide a summary of the plans for creating the prediction algorithm and the application. | [Rpubs](https://rpubs.com/adiserio/177267) | |
+|                                                     |                  |             |
+|**Search for Tweets**                                | []()             | []()        |
+|Shiny App that allows you to find news and events specifying a set of words. It is possible to indicate the language used and the maximun number of tweets to be retrieved from Twitter. A word cloud and a Table are showed for the tweets that meet the specified query | [Rpubs](https://rpubs.com/adiserio/144925) | [ShinyApp](https://adiserio.shinyapps.io/SearchForTweets/)|
+
 
 
 
