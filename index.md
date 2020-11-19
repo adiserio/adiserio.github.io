@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Data Science Portfolio
+
+Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of iPython Notebooks, and R markdown files (published at RPubs).
 
 You can use the [editor on GitHub](https://github.com/adiserio/adiserio.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
